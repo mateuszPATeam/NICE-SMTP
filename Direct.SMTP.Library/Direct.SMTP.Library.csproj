@@ -43,8 +43,9 @@
     <Reference Include="Direct.Shared">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\NICE Systems\Real-Time Designer\Direct.Shared.dll</HintPath>
     </Reference>
-    <Reference Include="log4net">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\NICE Systems\Real-Time Designer\log4net.dll</HintPath>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\log4net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
